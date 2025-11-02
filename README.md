@@ -32,20 +32,4 @@ Implement and simulate a DFA that accepts binary strings ending in `01`.
 
 ## 💻 Sample Input/Output
 
-**Input:**
-```
-1101
-```
-**Output:**
-```
-Accepted
-```
-
-**Input:**
-```
-1110
-```
-**Output:**
-```
-Rejected
-```
+![DFA Input/Output](images/dfa-output.png)
